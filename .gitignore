@@ -1,0 +1,56 @@
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+client/build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+project.xcworkspace
+
+# Android/IntelliJ
+#
+build/
+server/.idea
+server/.gradle
+server/local.properties
+*.iml
+*.hprof
+
+# node.js
+#
+client/node_modules/
+client/npm-debug.log
+client/yarn-error.log
+
+# BUCK
+client/buck-out/
+\client/.buckd/
+*.keystore
+!debug.keystore
+
+# Bundle artifacts
+*.jsbundle
+
+# CocoaPods
+client/ios/Pods/
+
+# Expo
+client/.expo/
+cient/web-build/
+
+

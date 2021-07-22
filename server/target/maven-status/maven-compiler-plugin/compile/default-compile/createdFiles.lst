@@ -1,0 +1,4 @@
+com/location/LocationFetcher/model/UserData.class
+com/location/LocationFetcher/controller/LocationOperations.class
+com/location/LocationFetcher/LocationFetcherApplication.class
+com/location/LocationFetcher/model/GpsData.class

@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "location",
+    "slug": "location",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "android": {
+      "package": "com.location.track"
+    }
+  },
+  "name": "location",
+  "android": {
+    "permissions": [
+      "LOCATION_BACKGROUND",
+      "LOCATION_FOREGROUND",
+      "LOCATION"
+    ]
+  }
+}
